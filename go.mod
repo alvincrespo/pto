@@ -1,3 +1,3 @@
 module pto
 
-go 1.16
+go1.16
